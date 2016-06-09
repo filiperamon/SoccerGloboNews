@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Hello">Hello World, Click Me!</string>
+    <string name="ApplicationName">FutebolNews</string>
+
+  <string name="times_prompt">Times</string>
+  <string-array name="menu">
+    <item>Exluir</item>
+  </string-array>              
+  <string-array name="times_array">
+    <item>Selecione o time</item>
+    <item>Atlético MG</item>
+    <item>Atlético PR</item>
+    <item>Avaí</item>
+    <item>Bahia</item>
+    <item>Botafogo</item>
+    <item>Corinthians</item>
+    <item>Coritiba</item>
+    <item>Cruzeiro</item>
+    <item>Figueirense</item>
+    <item>Flamengo</item>
+    <item>Fluminense</item>
+    <item>Goiás</item>
+    <item>Grêmio</item>
+    <item>Internacinal</item>
+    <item>Juventude</item>
+    <item>Náutico</item>
+    <item>Palmeiras</item>
+    <item>Paraná</item>
+    <item>Portuguesa</item>
+    <item>Santa Cruz</item>
+    <item>Santos</item>
+    <item>Sport</item>
+    <item>São Paulo</item>
+    <item>Vasco</item>
+    <item>Vitória</item>
+  </string-array>
+</resources>

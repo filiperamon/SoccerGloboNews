@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:p1="http://schemas.android.com/apk/res/android"
+    p1:minWidth="25px"
+    p1:minHeight="25px"
+    p1:layout_width="match_parent"
+    p1:layout_height="match_parent"
+    p1:id="@+id/relativeLayout1">
+    <Spinner
+        p1:layout_width="wrap_content"
+        p1:layout_height="45.5dp"
+        p1:id="@+id/spinner1"
+        p1:prompt="@string/times_prompt" />
+    <Button
+        p1:text="Adicionar"
+        p1:layout_width="wrap_content"
+        p1:layout_height="wrap_content"
+        p1:layout_toRightOf="@id/spinner1"
+        p1:id="@+id/btnAdicionar" />
+    <ListView
+        p1:minWidth="25px"
+        p1:minHeight="25px"
+        p1:layout_width="match_parent"
+        p1:layout_height="wrap_content"
+        p1:layout_below="@id/spinner1"
+        p1:id="@+id/listTimes" />
+</RelativeLayout>
